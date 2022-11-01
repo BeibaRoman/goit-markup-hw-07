@@ -1,8 +1,9 @@
 @import'./utils/variables';
 @import'./base/common';
 @import'./base/reset';
-@import'./components/container';
 
+@import'./components/container';
+@import'./components/modal';
 
 @import'./layouts/header';
 @import'./layouts/hero';
@@ -14,6 +15,6 @@
 @import'./layouts/footer';
 @import'./layouts/button-section';
 @import'./layouts/work-section';
-@import'./components/modal';
+
 
 
